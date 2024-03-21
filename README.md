@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **kanchanachoure16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZF9fgBm85Tr3uIO5a4knFN9tnnRnwZYF/view?usp=drivesdk](https://drive.google.com/file/d/1ZF9fgBm85Tr3uIO5a4knFN9tnnRnwZYF/view?usp=drivesdk)
-
 - ⚡ Fun fact **I am funny😜😎**
 
 <h3 align="left">Connect with me:</h3>
