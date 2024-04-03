@@ -1,6 +1,6 @@
-![logo](https://github.com/Kanchanachouhan/Kanchanachouhan/blob/main/image%20(2).png)
+
 <h1 align="center">Hi 👋, I'm Kanchana Chouhan</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A Data Analytic student, storyteller of data </h3>
 
 <img align="right" alt="Analyst" width="300" src= "https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
