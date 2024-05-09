@@ -5,9 +5,10 @@
 - 🔭 I’m currently working on **EDA using Python libraries**
 - 🌱 I’m currently learning **Machine Learning,NLP,Statics**
 - 🛠️ Tech Stack: **Python, SQL, Pandas, Power BI, Excel, Git, NumPy, and Basic of Matplotlib, Seaborn, Machine Learning**
+- 📫 How to reach me: kanchanachoure16@gmail.com
 <img align="right" alt="Analyst" width="300" src= "https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchanachouhan&label=Profile%20views&color=0e75b6&style=flat" alt="kanchanachouhan" /> </p>
-- 📫 How to reach me **kanchanachoure16@gmail.com**
+
 
 
 
