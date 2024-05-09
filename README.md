@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Kanchana Chouhan</h1>
 <h3 align="center">A Data Analytic student, storyteller of data </h3>
 
+- 🔭 I’m currently working on **EDA using Python libraries**
+- 🌱 I’m currently learning **Machine Learning,NLP,Statics**
+- 🛠️ Tech Stack: **Python, SQL, Pandas, Power BI, Excel, Git, NumPy, and Basic of Matplotlib, Seaborn, Machine Learning**
 <img align="right" alt="Analyst" width="300" src= "https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchanachouhan&label=Profile%20views&color=0e75b6&style=flat" alt="kanchanachouhan" /> </p>
-
 - 📫 How to reach me **kanchanachoure16@gmail.com**
 
-- ⚡ Fun fact **I am funny😜😎**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
